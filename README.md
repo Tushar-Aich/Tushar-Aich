@@ -2,7 +2,7 @@
 - 👀 I’m interested in C++ and JavaScript
 - 🌱 I’m currently learning Backend in JS and DSA in C++
 - 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me [Instagarm](https://www.instagram.com/orewa_tushar07/), [Email](mailto:avenshar3000@gmail.com)
+- 📫 How to reach me [Instagarm](https://www.instagram.com/orewa_tushar07/), [Email](avenshar3000@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: No fun fact just that I like to watch Anime and Football
 
