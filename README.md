@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tushar-Aich
 - 👀 I’m interested in C++ and JavaScript
-- 🌱 I’m currently learning Backend in JS and DSA in C++
+- 🌱 Finished MERN stack doing some projects and hoping to get into AI by this year
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me [Instagarm](https://www.instagram.com/orewa_tushar07/), [Twitter](https://x.com/Tushar22848), [avenshar3000@gmail.com](mailto:avenshar3000@gmail.com)
 - 😄 Pronouns: He/Him
