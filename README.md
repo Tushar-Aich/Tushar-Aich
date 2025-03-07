@@ -29,5 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar-aich&show_icons=true&locale=en&layout=compact" alt="tushar-aich" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar-aich&show_icons=true&locale=en" alt="tushar-aich" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-aich&" alt="tushar-aich" /></p>
