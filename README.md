@@ -19,6 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/tushar22848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tushar22848" height="30" width="40" /></a>
 <a href="https://instagram.com/orewa_tushar07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="orewa_tushar07" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/avenshar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avenshar" height="30" width="40" /></a>
 <a href="https://discord.gg/tushar_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tushar_03" height="30" width="40" /></a>
 </p>
 
