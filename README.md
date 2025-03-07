@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-aich&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-aich" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tushar-aich" alt="tushar-aich" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/tushar22848" target="blank"><img src="https://img.shields.io/twitter/follow/tushar22848?logo=twitter&style=for-the-badge" alt="tushar22848" /></a> </p>
 
 - 🔭 I’m currently working on [Winglet](https://GitHub.com/Tushar-Aich/Winglet)
