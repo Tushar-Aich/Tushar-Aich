@@ -1,4 +1,6 @@
-<h1 align="center" >Hi 👋, I am Tushar Aich</h1>
+<h1 align="center" ><em>Hi 👋, I am Tushar Aich</em></h1>
+<h3 align="center"><em>I am a tech enthusiast from Assam, India</em></h3>
+
 # 💫 About Me:
 🔭 I’m currently working on my first fullstack project Winglet <br>👯 I’m looking to collaborate on MERN stack <br>🤝 I’m looking for help with AI<br>🌱 I’m currently learning AI and LLMs<br>💬 Ask me about MERN stack <br>⚡ Fun fact I love to watch Anime and Football 
 
