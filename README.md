@@ -1,3 +1,4 @@
+<h1 align="center" >Hi 👋, I am Tushar Aich</h1>
 # 💫 About Me:
 🔭 I’m currently working on my first fullstack project Winglet <br>👯 I’m looking to collaborate on MERN stack <br>🤝 I’m looking for help with AI<br>🌱 I’m currently learning AI and LLMs<br>💬 Ask me about MERN stack <br>⚡ Fun fact I love to watch Anime and Football 
 
